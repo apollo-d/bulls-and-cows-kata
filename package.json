@@ -1,0 +1,14 @@
+{
+  "name": "bulls-and-cows-kata",
+  "version": "1.0.0",
+  "description": "1. Review `CONTEXT.md` (5min) 2. Create user and add self to my repl: https://repl.it/join/psymvics-pauldiehl (5min) 3. Fork the following repl:  https://repl.it/@PaulDiehl/bulls-and-cows-problem 5. Code Activity 1 6. Regroup Activity 1 7. Code Activity 2 6. Regroup Activity 2 1. Code Activity 3 6. Regroup Activity 3 8. Play (10min)",
+  "main": "bc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
